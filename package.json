@@ -1,0 +1,22 @@
+{
+  "name": "node-trainer",
+  "version": "1.0.0",
+  "description": "Node trainer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobinabraham15/node-trainer.git"
+  },
+  "author": "jobin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobinabraham15/node-trainer/issues"
+  },
+  "homepage": "https://github.com/jobinabraham15/node-trainer#readme",
+  "dependencies": {
+    "javascripting": "^2.6.0"
+  }
+}
